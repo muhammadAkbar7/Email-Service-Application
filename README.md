@@ -1,2 +1,3 @@
 # Email-Service-Application
-Base Application that allows business to have users sign up with email and sends out subsequent email updates
+Application is hosted on the Google cloud server with data stored in Firestore
+When users sign up with their emails, the application sends email updates using the SendGrid API
